@@ -32,21 +32,7 @@ function Home() {
           <h2>JIRA Task Flow Integration</h2>
           <p>Integrate our service with JIRA and Gitlab to effortlessly track task statuses, trace changes, and import projects. Simply add your API key, and witness a harmonious collaboration between our platform and your existing workflow tools.</p>
         </div>
-
-    <div className="front">
-      <div>
-        <img src={group2} alt="" />
-        <h1>Revolutionize the way you manage your workforce with Scorex </h1>
-        <input type="text" />
-        <input type="text" />
-        <input type="text" />
-        <input type="text" />
-      </div>
-    </div>
-
-
-
-      </div>
+        </div>
     </>
   );
 }
