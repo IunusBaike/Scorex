@@ -28,7 +28,7 @@ function Home() {
         </div>
 
         <div className='jira'>
-          <img src={group} alt="" />
+          <img src={grup} alt="" />
           <h2>JIRA Task Flow Integration</h2>
           <p>Integrate our service with JIRA and Gitlab to effortlessly track task statuses, trace changes, and import projects. Simply add your API key, and witness a harmonious collaboration between our platform and your existing workflow tools.</p>
         </div>
@@ -43,6 +43,8 @@ function Home() {
         <input type="text" />
       </div>
     </div>
+
+
 
       </div>
     </>
